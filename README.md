@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![codewars](https://www.codewars.com/users/schurakov/badges/small)
 
-https://www.hackerrank.com/churakov_s
+https://www.hackerrank.com/schurakov
